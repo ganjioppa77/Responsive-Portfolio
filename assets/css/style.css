@@ -136,7 +136,7 @@ nav a:first-child {
 }
 
 .work h3 {
-  position: absolute;
+  position: relative;
   bottom: 20px;
   width: 100%;
   padding: 15px;
